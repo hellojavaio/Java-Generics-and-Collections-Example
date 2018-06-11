@@ -1,17 +1,18 @@
-# Java-Generics-and-Collections-Example
-example for Java Generics and Collections
+# Java 集合与泛型示例
 
-## WORK
+## [Java Generics and Collections](https://github.com/zerotoneorg/Java-Generics-and-Collections)
 
-[example for Java Generics and Collections](https://github.com/zerotoneorg/Java-Generics-and-Collections)
+## Github 路径
 
-## PATH
+- [Java-Generics-and-Collections-Example](https://github.com/hellojavaio/Java-Generics-and-Collections-Example)
 
-- [github/Java-Generics-and-Collections-Example](https://github.com/hellojavaio/Java-Generics-and-Collections-Example)
-
-## Author
+## 作者
 
 - [maskleo](https://github.com/maskleo)
+
+## 目录
+
+- [ch01](ch01/README.md)
 
 ## LICENSE
 
