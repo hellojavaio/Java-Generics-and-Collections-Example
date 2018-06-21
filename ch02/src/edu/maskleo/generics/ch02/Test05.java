@@ -3,16 +3,19 @@ package edu.maskleo.generics.ch02;
 import java.util.Arrays;
 import java.util.List;
 
+import static edu.maskleo.generics.ch02.InvokeHandler.invoke;
+
 /**
  * @author v@maskleo.cn
  */
 public class Test05 {
 
     public static void main(String[] args) {
-        forArr();
-        forList();
-        forClass();
+        invoke(Test05.class,"forArr");
+        invoke(Test05.class,"forList");
+        invoke(Test05.class,"forClass");
     }
+
 
     private static void forList() {
         List<Integer> ints = Arrays.asList(1, 2, 3);
