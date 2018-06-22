@@ -7,6 +7,10 @@ import static edu.maskleo.generics.ch02.InvokeHandler.invoke;
 
 /**
  * @author v@maskleo.cn
+ *
+ *  S 是 T 的子类型时，类型 S [] 被认为是 T [] 的一个子类型
+ *  但是集合的时候却不是这样
+ *  从某种意义上讲，协变数组是早期 Java 版本中缺乏泛型的人为因素。 一旦你有泛型，协变数组可能是<B>错误的</B>设计选择，保留它们的唯一原因是向后兼容。
  */
 public class Test05 {
 
