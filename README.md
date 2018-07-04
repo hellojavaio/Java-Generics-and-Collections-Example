@@ -1,6 +1,6 @@
 # Java 集合与泛型示例
 
-## [Java Generics and Collections](https://github.com/zerotoneorg/Java-Generics-and-Collections)
+## [Java Generics and Collections](https://github.com/hellojavaio/Java-Generics-and-Collections-2)
 
 ## Github 路径
 

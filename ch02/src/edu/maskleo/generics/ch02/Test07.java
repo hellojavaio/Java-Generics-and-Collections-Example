@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * @author v@maskleo.cn
- *
+ * <p>
  * 当调用泛型方法时，可以选择类型参数以匹配由通配符表示的未知类型。这被称为通配符捕获。
  */
 public class Test07 {
