@@ -2,7 +2,11 @@ package edu.maskleo.generics.ch01;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
+import java.util.function.Function;
+import java.util.stream.Collector;
+import java.util.stream.Collectors;
 
 /**
  * @author v@maskleo.cn
@@ -26,6 +30,27 @@ public class Test04 {
         System.out.println(Arrays.asList(new int[]{1, 2, 3, 4}).size() == 4);
         // true
         System.out.println(Arrays.asList(new Integer[]{1, 2, 3, 4}).size() == 4);
+
+        List<String> testList = new ArrayList<String>() {
+            {
+                add("1");
+                add("2");
+                add("3");
+                add("5");
+                add("8");
+                add("2");
+                add("3");
+            }
+        };
+
+        testList = Collections.unmodifiableList(testList);
+        System.out.println(testList.stream().filter(e -> "2".equals(e)).collect(Collectors.toList()));
+
+        int max = Integer.MAX_VALUE;
+        int min = Integer.MIN_VALUE;
+        long x = (long) max - min;
+        System.out.println(x);
+
     }
 
     public static class Lists {

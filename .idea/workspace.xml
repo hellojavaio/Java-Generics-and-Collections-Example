@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="cf1fa546-ff99-4ba4-b5dc-65c5f570b17e" name="Default" comment="" />
-=======
-    <list default="true" id="756ef816-5074-4de6-a89c-af441472da6b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/InvokeHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="13cd81f0-7d5d-45b3-81f7-be5061fc2cab" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/ch03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test05.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test04.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test08.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test09.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test10.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test10.java" afterDir="false" />
     </list>
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,82 +25,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-<<<<<<< HEAD
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test01.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test01.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="251">
+      <file leaf-file-name="Test08.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test08.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="342">
+              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#419#427#0" expanded="true" />
+                <element signature="e#846#855#0" expanded="true" />
               </folding>
-=======
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="102">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test02.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test02.java">
+      <file leaf-file-name="Test01.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test01.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file leaf-file-name="Test02.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test02.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-=======
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file leaf-file-name="Test03.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test03.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
-=======
-      <file leaf-file-name="Java-Generics-and-Collections-Example.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java-Generics-and-Collections-Example.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Test05.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test05.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
+            <state relative-caret-position="133">
+              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,67 +54,111 @@
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="272">
-                <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-              </first_editor>
-              <second_editor />
-=======
-      <file leaf-file-name="Test03.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test03.java">
+      <file leaf-file-name="Collections.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/soft/JDK8/src.zip!/java/util/Collections.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
+            <state relative-caret-position="216">
+              <caret line="173" column="56" selection-start-line="173" selection-start-column="46" selection-end-line="173" selection-end-column="56" />
+              <folding>
+                <element signature="e#7284#7285#0" expanded="true" />
+                <element signature="e#7312#7313#0" expanded="true" />
+                <element signature="e#58225#58226#0" expanded="true" />
+                <element signature="e#58260#58261#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch01/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
-=======
-      <file leaf-file-name="InvokeHandler.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/InvokeHandler.java">
+      <file leaf-file-name="Test07.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test07.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
+            <state relative-caret-position="76">
+              <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="ch01.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch01/ch01.iml">
+      <file leaf-file-name="Test06.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test06.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" />
-=======
-      <file leaf-file-name="Test04.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test04.java">
+            <state relative-caret-position="342">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test09.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test09.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
+            <state relative-caret-position="133">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+              <folding>
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test11.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test10.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding>
+                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TimeUnit.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/soft/JDK8/src.zip!/java/util/concurrent/TimeUnit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="232" column="23" selection-start-line="232" selection-start-column="16" selection-end-line="232" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#14144#0" expanded="true" />
+                <element signature="e#8926#8927#0" expanded="true" />
+                <element signature="e#8973#8974#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Enum.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/soft/JDK8/src.zip!/java/lang/Enum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#8739#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#2036#2037#0" expanded="true" />
+                <element signature="e#2063#2064#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-<<<<<<< HEAD
-=======
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -171,21 +166,32 @@
       </list>
     </option>
   </component>
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RandomAccess</find>
+      <find>Season</find>
+      <find>toNanos</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Test09</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test03.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/ch01/README.md" />
-=======
-        <option value="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test05.java" />
-        <option value="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/InvokeHandler.java" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
+        <option value="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test07.java" />
+        <option value="$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test03.java" />
+        <option value="$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test04.java" />
+        <option value="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test10.java" />
+        <option value="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test08.java" />
+        <option value="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test09.java" />
+        <option value="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test11.java" />
+        <option value="$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test09.java" />
+        <option value="$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test01.java" />
       </list>
     </option>
   </component>
@@ -195,16 +201,6 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-<<<<<<< HEAD
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="300" />
-    <option name="y" value="192" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-=======
   <component name="MavenProjectNavigator">
     <treeState>
       <expand />
@@ -214,73 +210,62 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
     <option name="y" value="-8" />
     <option name="width" value="1874" />
     <option name="height" value="1096" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
-=======
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Java-Generics-and-Collections-Example" type="b2602c69:ProjectViewProjectNode" />
-<<<<<<< HEAD
-              <item name="ch01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Generics-and-Collections-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ch01" type="462c0819:PsiDirectoryNode" />
-=======
               <item name="ch02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Generics-and-Collections-Example" type="b2602c69:ProjectViewProjectNode" />
               <item name="ch02" type="462c0819:PsiDirectoryNode" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Generics-and-Collections-Example" type="b2602c69:ProjectViewProjectNode" />
-<<<<<<< HEAD
-              <item name="ch01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch01" type="462c0819:PsiDirectoryNode" />
-=======
               <item name="ch02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ch02" type="462c0819:PsiDirectoryNode" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
+            </path>
+            <path>
+              <item name="Java-Generics-and-Collections-Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Generics-and-Collections-Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Generics-and-Collections-Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-<<<<<<< HEAD
-=======
-      <pane id="Scope" />
       <pane id="PackagesPane" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/learing_code/Java-Generics-and-Collections-Example/ch02/src/edu/maskleo/generics/ch02/Test07.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -294,8 +279,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-<<<<<<< HEAD
+  <component name="RunManager" selected="Application.Test01">
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.maskleo.generics.ch03.Test01" />
+      <module name="ch03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.maskleo.generics.ch04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.maskleo.generics.ch03.Test02" />
+      <module name="ch03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.maskleo.generics.ch04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.maskleo.generics.ch01.Test03" />
       <module name="ch01" />
@@ -303,18 +309,28 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="edu.maskleo.generics.ch01.*" />
-=======
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
-    <configuration name="Test05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.maskleo.generics.ch02.Test05" />
+    <configuration name="Test04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.maskleo.generics.ch01.Test04" />
+      <module name="ch01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.maskleo.generics.ch01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.maskleo.generics.ch02.Test08" />
       <module name="ch02" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.maskleo.generics.ch02.*" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
+          <option name="PATTERN" value="edu.maskleo.generics.ch04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -331,11 +347,7 @@
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-=======
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
@@ -353,11 +365,7 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-=======
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
       <option name="OUTPUT_DIRECTORY" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -368,13 +376,20 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.Test08" />
+      <item itemvalue="Application.Test03" />
+      <item itemvalue="Application.Test04" />
+      <item itemvalue="Application.Test02" />
+      <item itemvalue="Application.Test01" />
+    </list>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
+        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.Test02" />
+        <item itemvalue="Application.Test04" />
         <item itemvalue="Application.Test03" />
-=======
-        <item itemvalue="Application.Test05" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
+        <item itemvalue="Application.Test08" />
       </list>
     </recent_temporary>
   </component>
@@ -383,108 +398,68 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="cf1fa546-ff99-4ba4-b5dc-65c5f570b17e" name="Default" comment="" />
-      <created>1528719888956</created>
+      <changelist id="13cd81f0-7d5d-45b3-81f7-be5061fc2cab" name="Default" comment="" />
+      <created>1530687254229</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1528719888956</updated>
-      <workItem from="1528719894946" duration="4186000" />
-      <workItem from="1528976487130" duration="30000" />
+      <updated>1530687254229</updated>
+      <workItem from="1530687255709" duration="17953000" />
     </task>
-    <task id="LOCAL-00001" summary="add doc">
-      <created>1528725164684</created>
+    <task id="LOCAL-00001" summary="add example">
+      <created>1530691660969</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1528725164684</updated>
-=======
-      <changelist id="756ef816-5074-4de6-a89c-af441472da6b" name="Default" comment="" />
-      <created>1529572821080</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1529572821080</updated>
-      <workItem from="1529572825009" duration="2713000" />
+      <updated>1530691660969</updated>
     </task>
-    <task id="LOCAL-00001" summary="add">
-      <created>1529572866675</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+    <task id="LOCAL-00002" summary="add enum about example">
+      <created>1530847864236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1529572866675</updated>
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
+      <updated>1530847864236</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00003" summary="format code">
+      <created>1530848595674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1530848595674</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="4216000" />
+    <option name="totallyTimeSpent" value="17953000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="300" y="192" width="1400" height="1000" extended-state="0" />
-    <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3438914" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1683526" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Learn" order="2" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32959184" />
-=======
-    <option name="totallyTimeSpent" value="2713000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1874" height="1096" extended-state="0" />
+    <frame x="-1928" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49889746" weight="0.3291536" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.29768467" side_tool="true" visible="true" weight="0.48171368" />
-      <window_info anchor="right" id="Maven Projects" order="2" visible="true" weight="0.091510475" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.22050716" side_tool="true" visible="true" weight="0.2967607" />
+      <window_info anchor="right" id="Maven Projects" order="2" visible="true" weight="0.0049614115" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.70231533" visible="true" weight="0.48171368" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.77949286" visible="true" weight="0.2967607" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" x="702" y="381" width="453" height="318" id="Project" order="3" sideWeight="0.48833594" visible="true" weight="0.17916207" />
+      <window_info content_ui="combo" x="702" y="381" width="453" height="318" id="Project" order="3" sideWeight="0.48833594" visible="true" weight="0.14994487" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.24972437" />
       <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
       <window_info id="UI Designer" order="1" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49944875" weight="0.39184952" />
       <window_info id="Favorites" order="2" sideWeight="0.5116641" side_tool="true" weight="0.24972437" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
       <window_info anchor="right" id="Commander" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="3" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,206 +469,209 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-<<<<<<< HEAD
-    <MESSAGE value="add doc" />
-    <option name="LAST_COMMIT_MESSAGE" value="add doc" />
+    <MESSAGE value="add example" />
+    <MESSAGE value="add enum about example" />
+    <MESSAGE value="format code" />
+    <option name="LAST_COMMIT_MESSAGE" value="format code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test01.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="285">
+          <caret line="236" column="17" lean-forward="true" selection-start-line="236" selection-start-column="17" selection-end-line="236" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="399">
+            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="190">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/ConcurrentModificationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1812">
+          <folding>
+            <element signature="e#0#4212#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="71" column="28" lean-forward="true" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
+        <state relative-caret-position="-425">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-=======
-    <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java-Generics-and-Collections-Example.iml">
-      <provider selected="true" editor-type-id="text-editor" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-<<<<<<< HEAD
-          <first_editor relative-caret-position="272">
-            <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          </first_editor>
-=======
-          <first_editor />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/ch01/ch01.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch01/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch01/ch01.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="272">
-            <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test01.java">
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/RandomAccess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-=======
-    <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="396">
+          <caret line="64" column="13" lean-forward="true" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test03.java">
+    <entry file="file://$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="475">
+          <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="342">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test05.java">
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/lang/Enum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
+        <state relative-caret-position="458">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#8739#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#2036#2037#0" expanded="true" />
+            <element signature="e#2063#2064#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/Formatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="1850" column="19" selection-start-line="1850" selection-start-column="19" selection-end-line="1850" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="232" column="23" selection-start-line="232" selection-start-column="16" selection-end-line="232" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#14144#0" expanded="true" />
+            <element signature="e#8926#8927#0" expanded="true" />
+            <element signature="e#8973#8974#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#419#427#0" expanded="true" />
+            <element signature="e#846#855#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="173" column="56" selection-start-line="173" selection-start-column="46" selection-end-line="173" selection-end-column="56" />
+          <folding>
+            <element signature="e#7284#7285#0" expanded="true" />
+            <element signature="e#7312#7313#0" expanded="true" />
+            <element signature="e#58225#58226#0" expanded="true" />
+            <element signature="e#58260#58261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch01/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-=======
-    <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/InvokeHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
-        </state>
-      </provider>
-    </entry>
   </component>
-<<<<<<< HEAD
-=======
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
-  </component>
->>>>>>> a7398363abb1882e28bbb190bb8644407761cdef
 </project>

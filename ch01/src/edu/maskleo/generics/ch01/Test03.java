@@ -27,6 +27,7 @@ public class Test03 {
         loopForForIn();
         loopForforIterator();
         loopForForEach();
+        remove1();
         remove2();
     }
 

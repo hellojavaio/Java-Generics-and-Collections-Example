@@ -4,6 +4,11 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * @author v@maskleo.cn
+ * <p>
+ * 实现泛型类必须是准确的类型
+ */
 public class Test08 {
 
     public static void main(String[] args) {

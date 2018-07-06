@@ -1,6 +1,11 @@
-package edu.maskleo.generics.ch02;
+package edu.maskleo.generics.ch03;
 
-public enum Test09 implements Test10 {
+/**
+ * @author v@maskleo.cn
+ * <p>
+ * 枚举也能实现接口
+ */
+public enum Test02 implements Test03 {
     INSTANCE {
         @Override
         public String print() {
