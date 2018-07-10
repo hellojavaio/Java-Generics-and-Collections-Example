@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13cd81f0-7d5d-45b3-81f7-be5061fc2cab" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/ch03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="13cd81f0-7d5d-45b3-81f7-be5061fc2cab" name="Default" comment="add 访客 设计模式">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test04.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test08.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test09.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test10.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/strategy/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/strategy/Main2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,135 +15,84 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="251">
-      <file leaf-file-name="Test08.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test08.java">
+      <file leaf-file-name="Main2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/strategy/Main2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            <state relative-caret-position="1216">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#419#427#0" expanded="true" />
-                <element signature="e#846#855#0" expanded="true" />
+                <element signature="e#1411#1412#0" expanded="true" />
+                <element signature="e#1459#1460#0" expanded="true" />
+                <element signature="e#1541#1542#0" expanded="true" />
+                <element signature="e#1593#1594#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test01.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test01.java">
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/soft/JDK8/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+            <state relative-caret-position="425">
+              <caret line="889" column="63" lean-forward="true" selection-start-line="889" selection-start-column="63" selection-end-line="889" selection-end-column="63" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#6252#6253#0" expanded="true" />
+                <element signature="e#6320#6321#0" expanded="true" />
+                <element signature="e#32042#32072#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Collections.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/soft/JDK8/src.zip!/java/util/Collections.java">
+      <file leaf-file-name="AbstractList.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/soft/JDK8/src.zip!/java/util/AbstractList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="173" column="56" selection-start-line="173" selection-start-column="46" selection-end-line="173" selection-end-column="56" />
-              <folding>
-                <element signature="e#7284#7285#0" expanded="true" />
-                <element signature="e#7312#7313#0" expanded="true" />
-                <element signature="e#58225#58226#0" expanded="true" />
-                <element signature="e#58260#58261#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="319">
+              <caret line="600" column="28" selection-start-line="600" selection-start-column="28" selection-end-line="600" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test07.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test07.java">
+      <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/soft/JDK8/src.zip!/java/util/Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="3" />
+            <state relative-caret-position="280">
+              <caret line="3207" column="28" selection-start-line="3207" selection-start-column="28" selection-end-line="3207" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test06.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test06.java">
+      <file leaf-file-name="UUID.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/soft/JDK8/src.zip!/java/util/UUID.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="214">
+              <caret line="377" selection-start-line="377" selection-end-line="377" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test09.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test09.java">
+      <file leaf-file-name="IdentityHashMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/soft/JDK8/src.zip!/java/util/IdentityHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-              <folding>
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test11.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test11.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="e#236#237#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test10.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding>
-                <element signature="e#111#112#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TimeUnit.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/soft/JDK8/src.zip!/java/util/concurrent/TimeUnit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="232" column="23" selection-start-line="232" selection-start-column="16" selection-end-line="232" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#14144#0" expanded="true" />
-                <element signature="e#8926#8927#0" expanded="true" />
-                <element signature="e#8973#8974#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Enum.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/soft/JDK8/src.zip!/java/lang/Enum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#8739#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="e#2036#2037#0" expanded="true" />
-                <element signature="e#2063#2064#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1182">
+              <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -162,6 +102,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -171,6 +112,11 @@
       <find>RandomAccess</find>
       <find>Season</find>
       <find>toNanos</find>
+      <find>DEFAULTCAPACITY_EMPTY_ELEMENTDATA</find>
+      <find>getTypeParameters</find>
+      <find>getConstructor</find>
+      <find>Constructor</find>
+      <find>SortedMap</find>
     </findStrings>
     <replaceStrings>
       <replace>Test09</replace>
@@ -192,6 +138,28 @@
         <option value="$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test11.java" />
         <option value="$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test09.java" />
         <option value="$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test01.java" />
+        <option value="$PROJECT_DIR$/ch04/src/edu/maskleo/generics/ch04/Test11.java" />
+        <option value="$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test02.java" />
+        <option value="$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test03.java" />
+        <option value="$PROJECT_DIR$/ch04/src/edu/maskleo/generics/ch04/Test01.java" />
+        <option value="$PROJECT_DIR$/ch04/src/edu/maskleo/generics/ch04/Test02.java" />
+        <option value="$PROJECT_DIR$/ch04/src/edu/maskleo/generics/ch04/Test03.java" />
+        <option value="$PROJECT_DIR$/ch04/src/edu/maskleo/generics/ch04/Test04.java" />
+        <option value="$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/IEmployee.java" />
+        <option value="$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/FullTimeEmployee.java" />
+        <option value="$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/EmployeeList.java" />
+        <option value="$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/Department.java" />
+        <option value="$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/FinanceDepartment.java" />
+        <option value="$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/HRDepartment.java" />
+        <option value="$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/PartTimeEmployee.java" />
+        <option value="$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/department/Department.java" />
+        <option value="$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/employee/PartTimeEmployee.java" />
+        <option value="$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/employee/EmployeeList.java" />
+        <option value="$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/department/HRDepartment.java" />
+        <option value="$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/department/FinanceDepartment.java" />
+        <option value="$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/Main.java" />
+        <option value="$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/strategy/Main.java" />
+        <option value="$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/strategy/Main2.java" />
       </list>
     </option>
   </component>
@@ -211,10 +179,13 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1874" />
     <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -227,33 +198,63 @@
           <expand>
             <path>
               <item name="Java-Generics-and-Collections-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="ch09" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Generics-and-Collections-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="ch09" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Generics-and-Collections-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="ch09" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="ch09" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Generics-and-Collections-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="ch09" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch09" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Generics-and-Collections-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="ch09" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch09" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+              <item name="Main2" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="Java-Generics-and-Collections-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ch03" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Java-Generics-and-Collections-Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="Java-Generics-and-Collections-Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Generics-and-Collections-Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Generics-and-Collections-Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -266,6 +267,10 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/learing_code/Java-Generics-and-Collections-Example/ch02/src/edu/maskleo/generics/ch02/Test07.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -279,10 +284,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test01">
-    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.maskleo.generics.ch03.Test01" />
-      <module name="ch03" />
+  <component name="RunManager" selected="Application.Main2">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.maskleo.generics.ch09.strategy.Main" />
+      <module name="ch09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.maskleo.generics.ch09.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.maskleo.generics.ch09.visitor.Main" />
+      <module name="ch09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.maskleo.generics.ch09.visitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.maskleo.generics.ch09.strategy.Main2" />
+      <module name="ch09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.maskleo.generics.ch09.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.maskleo.generics.ch04.Test03" />
+      <module name="ch04" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -291,42 +329,9 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.maskleo.generics.ch03.Test02" />
-      <module name="ch03" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.maskleo.generics.ch04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.maskleo.generics.ch01.Test03" />
-      <module name="ch01" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.maskleo.generics.ch01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Test04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.maskleo.generics.ch01.Test04" />
-      <module name="ch01" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.maskleo.generics.ch01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Test08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.maskleo.generics.ch02.Test08" />
-      <module name="ch02" />
+    <configuration name="Test04 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.maskleo.generics.ch04.Test04" />
+      <module name="ch04" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -377,19 +382,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Test08" />
-      <item itemvalue="Application.Test03" />
-      <item itemvalue="Application.Test04" />
-      <item itemvalue="Application.Test02" />
-      <item itemvalue="Application.Test01" />
+      <item itemvalue="Application.Test03 (1)" />
+      <item itemvalue="Application.Test04 (1)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test01" />
-        <item itemvalue="Application.Test02" />
-        <item itemvalue="Application.Test04" />
-        <item itemvalue="Application.Test03" />
-        <item itemvalue="Application.Test08" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test04 (1)" />
+        <item itemvalue="Application.Test03 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -403,7 +408,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530687254229</updated>
-      <workItem from="1530687255709" duration="17953000" />
+      <workItem from="1530687255709" duration="47138000" />
     </task>
     <task id="LOCAL-00001" summary="add example">
       <created>1530691660969</created>
@@ -426,30 +431,50 @@
       <option name="project" value="LOCAL" />
       <updated>1530848595674</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="format code">
+      <created>1531131264044</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531131264044</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add 访客 设计模式">
+      <created>1531206390116</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1531206390116</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add 设计模式 策略">
+      <created>1531211666849</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1531211666849</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17953000" />
+    <option name="totallyTimeSpent" value="47138000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.49889746" weight="0.3291536" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.4983462" weight="0.3291536" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.22050716" side_tool="true" visible="true" weight="0.2967607" />
-      <window_info anchor="right" id="Maven Projects" order="2" visible="true" weight="0.0049614115" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.22271223" side_tool="true" weight="0.32706374" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.0049614115" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.77949286" visible="true" weight="0.2967607" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.7772878" weight="0.32706374" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" x="702" y="381" width="453" height="318" id="Project" order="3" sideWeight="0.48833594" visible="true" weight="0.14994487" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info active="true" content_ui="combo" x="702" y="381" width="453" height="318" id="Project" order="3" sideWeight="0.48833594" visible="true" weight="0.14994487" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3296582" />
+      <window_info anchor="bottom" id="Find" order="4" sideWeight="0.4983462" weight="0.3552769" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.24972437" />
       <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
       <window_info id="UI Designer" order="1" />
@@ -472,7 +497,9 @@
     <MESSAGE value="add example" />
     <MESSAGE value="add enum about example" />
     <MESSAGE value="format code" />
-    <option name="LAST_COMMIT_MESSAGE" value="format code" />
+    <MESSAGE value="add 访客 设计模式" />
+    <MESSAGE value="add 设计模式 策略" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 设计模式 策略" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -480,94 +507,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="236" column="17" lean-forward="true" selection-start-line="236" selection-start-column="17" selection-end-line="236" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="399">
-            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/ConcurrentModificationException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1812">
-          <folding>
-            <element signature="e#0#4212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-425">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/RandomAccess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="64" column="13" lean-forward="true" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch01/src/edu/maskleo/generics/ch01/Test04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/soft/JDK8/src.zip!/java/lang/Enum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#8739#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#2036#2037#0" expanded="true" />
-            <element signature="e#2063#2064#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/soft/JDK8/src.zip!/java/util/Formatter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -601,55 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test09.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding>
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#419#427#0" expanded="true" />
-            <element signature="e#846#855#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/soft/JDK8/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -663,15 +553,663 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ch02/src/edu/maskleo/generics/ch02/Test08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#419#427#0" expanded="true" />
+            <element signature="e#846#855#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        <state relative-caret-position="76">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch03/src/edu/maskleo/generics/ch03/Test03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch04/src/edu/maskleo/generics/ch04/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch04/src/edu/maskleo/generics/ch04/Test02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch04/ch04.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/RandomAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="66" column="29" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="83" column="30" selection-start-line="83" selection-start-column="30" selection-end-line="83" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/AbstractSequentialList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="168" column="32" selection-start-line="168" selection-start-column="32" selection-end-line="168" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/concurrent/Callable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714">
+          <folding>
+            <element signature="e#0#1311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch04/src/edu/maskleo/generics/ch04/Test03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="1804" column="47" selection-start-line="1804" selection-start-column="47" selection-end-line="1804" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#90987#0" expanded="true" />
+            <element signature="e#24298#24299#0" expanded="true" />
+            <element signature="e#24363#24364#0" expanded="true" />
+            <element signature="e#68529#68530#0" expanded="true" />
+            <element signature="e#68580#68581#0" expanded="true" />
+            <element signature="e#71152#71153#0" expanded="true" />
+            <element signature="e#71234#71235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="71" column="40" selection-start-line="71" selection-start-column="40" selection-end-line="71" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="62" column="25" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#25868#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="1821" column="19" selection-start-line="1821" selection-start-column="19" selection-end-line="1821" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/lang/reflect/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="377" column="6" lean-forward="true" selection-start-line="377" selection-start-column="6" selection-end-line="377" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#19340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch04/src/edu/maskleo/generics/ch04/Test04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/ch09.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/department/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/employee/EmployeeList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/employee/FullTimeEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/employee/IEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/employee/PartTimeEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/department/FinanceDepartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="66" lean-forward="true" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/visitor/department/HRDepartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="76" selection-start-line="21" selection-start-column="76" selection-end-line="21" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/strategy/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="47" lean-forward="true" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+          <folding>
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="71" column="27" selection-start-line="71" selection-start-column="27" selection-end-line="71" selection-end-column="27" />
+          <folding>
+            <element signature="e#2712#2713#0" expanded="true" />
+            <element signature="e#2785#2786#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.Enumeration</node>
+            <node x="" y="">java.util.zip</node>
+            <node x="" y="">java.util.Vector</node>
+            <node x="" y="">java.util.MissingResourceException</node>
+            <node x="" y="">java.util.EventListenerProxy</node>
+            <node x="" y="">java.util.TaskQueue</node>
+            <node x="" y="">java.util.stream</node>
+            <node x="" y="">java.util.Currency</node>
+            <node x="" y="">java.util.LinkedHashMap</node>
+            <node x="" y="">java.util.OptionalLong</node>
+            <node x="" y="">java.util.Calendar</node>
+            <node x="" y="">java.util.IllegalFormatWidthException</node>
+            <node x="" y="">java.util.TreeMap</node>
+            <node x="" y="">java.util.Comparators</node>
+            <node x="" y="">java.util.Observer</node>
+            <node x="" y="">java.util.SortedSet</node>
+            <node x="" y="">java.util.PriorityQueue</node>
+            <node x="" y="">java.util.Scanner</node>
+            <node x="" y="">java.util.EventObject</node>
+            <node x="" y="">java.util.AbstractCollection</node>
+            <node x="" y="">java.util.ArrayPrefixHelpers</node>
+            <node x="" y="">java.util.concurrent</node>
+            <node x="" y="">java.util.NavigableMap</node>
+            <node x="" y="">java.util.Objects</node>
+            <node x="" y="">java.util.function</node>
+            <node x="" y="">java.util.SimpleTimeZone</node>
+            <node x="" y="">java.util.OptionalDouble</node>
+            <node x="" y="">java.util.NoSuchElementException</node>
+            <node x="" y="">java.util.RandomAccessSubList</node>
+            <node x="" y="">java.util.UnknownFormatConversionException</node>
+            <node x="" y="">java.util.TimSort</node>
+            <node x="" y="">java.util.IllegalFormatCodePointException</node>
+            <node x="" y="">java.util.StringJoiner</node>
+            <node x="" y="">java.util.IntSummaryStatistics</node>
+            <node x="" y="">java.util.BitSet</node>
+            <node x="" y="">java.util.Arrays</node>
+            <node x="" y="">java.util.regex</node>
+            <node x="" y="">java.util.TimerTask</node>
+            <node x="" y="">java.util.EnumMap</node>
+            <node x="" y="">java.util.FormatFlagsConversionMismatchException</node>
+            <node x="" y="">java.util.TreeSet</node>
+            <node x="" y="">java.util.InvalidPropertiesFormatException</node>
+            <node x="" y="">java.util.ArrayList</node>
+            <node x="" y="">java.util.ResourceBundle</node>
+            <node x="" y="">java.util.LinkedHashSet</node>
+            <node x="" y="">java.util.LocaleISOData</node>
+            <node x="" y="">java.util.EmptyStackException</node>
+            <node x="" y="">java.util.Properties</node>
+            <node x="" y="">java.util.TooManyListenersException</node>
+            <node x="" y="">java.util.IllformedLocaleException</node>
+            <node x="" y="">java.util.ArrayDeque</node>
+            <node x="" y="">java.util.spi</node>
+            <node x="" y="">java.util.Formatter</node>
+            <node x="" y="">java.util.PropertyPermission</node>
+            <node x="" y="">java.util.IllegalFormatPrecisionException</node>
+            <node x="" y="">java.util.AbstractSequentialList</node>
+            <node x="" y="">java.util.List</node>
+            <node x="" y="">java.util.SortedMap</node>
+            <node x="" y="">java.util.Formattable</node>
+            <node x="" y="">java.util.AbstractSet</node>
+            <node x="" y="">java.util.Deque</node>
+            <node x="" y="">java.util.LongSummaryStatistics</node>
+            <node x="" y="">java.util.ListResourceBundle</node>
+            <node x="" y="">java.util.jar</node>
+            <node x="" y="">java.util.JumboEnumSet</node>
+            <node x="" y="">java.util.Observable</node>
+            <node x="" y="">java.util.InputMismatchException</node>
+            <node x="" y="">java.util.Map</node>
+            <node x="" y="">java.util.EnumSet</node>
+            <node x="" y="">java.util.GregorianCalendar</node>
+            <node x="" y="">java.util.PropertyResourceBundle</node>
+            <node x="" y="">java.util.EventListener</node>
+            <node x="" y="">java.util.ArraysParallelSortHelpers</node>
+            <node x="" y="">java.util.ConcurrentModificationException</node>
+            <node x="" y="">java.util.logging</node>
+            <node x="" y="">java.util.SubList</node>
+            <node x="" y="">java.util.StringTokenizer</node>
+            <node x="" y="">java.util.UnknownFormatFlagsException</node>
+            <node x="" y="">java.util.PropertyPermissionCollection</node>
+            <node x="" y="">java.util.ListIterator</node>
+            <node x="" y="">java.util.Date</node>
+            <node x="" y="">java.util.Spliterators</node>
+            <node x="" y="">java.util.Tripwire</node>
+            <node x="" y="">java.util.Random</node>
+            <node x="" y="">java.util.prefs</node>
+            <node x="" y="">java.util.Locale</node>
+            <node x="" y="">java.util.TimeZone</node>
+            <node x="" y="">java.util.Collection</node>
+            <node x="" y="">java.util.ServiceLoader</node>
+            <node x="" y="">java.util.UUID</node>
+            <node x="" y="">java.util.Queue</node>
+            <node x="" y="">java.util.Spliterator</node>
+            <node x="" y="">java.util.MissingFormatArgumentException</node>
+            <node x="" y="">java.util.OptionalInt</node>
+            <node x="" y="">java.util.Stack</node>
+            <node x="" y="">java.util.HashSet</node>
+            <node x="" y="">java.util.LinkedList</node>
+            <node x="" y="">java.util.JapaneseImperialCalendar</node>
+            <node x="" y="">java.util.IllegalFormatConversionException</node>
+            <node x="" y="">java.util.PrimitiveIterator</node>
+            <node x="" y="">java.util.AbstractMap</node>
+            <node x="" y="">java.util.Comparator</node>
+            <node x="" y="">java.util.AbstractQueue</node>
+            <node x="" y="">java.util.DoubleSummaryStatistics</node>
+            <node x="" y="">java.util.DuplicateFormatFlagsException</node>
+            <node x="" y="">java.util.MissingFormatWidthException</node>
+            <node x="" y="">java.util.FormattableFlags</node>
+            <node x="" y="">java.util.Set</node>
+            <node x="" y="">java.util.RegularEnumSet</node>
+            <node x="" y="">java.util.Dictionary</node>
+            <node x="" y="">java.util.RandomAccess</node>
+            <node x="" y="">java.util.FormatterClosedException</node>
+            <node x="" y="">java.util.ComparableTimSort</node>
+            <node x="" y="">java.util.AbstractList</node>
+            <node x="" y="">java.util.Timer</node>
+            <node x="" y="">java.util.IllegalFormatException</node>
+            <node x="" y="">java.util.SplittableRandom</node>
+            <node x="" y="">java.util.IdentityHashMap</node>
+            <node x="" y="">java.util.NavigableSet</node>
+            <node x="" y="">java.util.Base64</node>
+            <node x="" y="">java.util.Optional</node>
+            <node x="" y="">java.util.TimerThread</node>
+            <node x="" y="">java.util.HashMap</node>
+            <node x="" y="">java.util.DualPivotQuicksort</node>
+            <node x="" y="">java.util.ServiceConfigurationError</node>
+            <node x="" y="">java.util.Hashtable</node>
+            <node x="" y="">java.util.WeakHashMap</node>
+            <node x="" y="">java.util.Iterator</node>
+            <node x="" y="">java.util.IllegalFormatFlagsException</node>
+            <node x="" y="">java.util.Collections</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.4554817275747508" x="1495.0" y="582.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/NavigableMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="418" column="52" selection-start-line="418" selection-start-column="42" selection-end-line="418" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="112" column="20" lean-forward="true" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/SortedMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="112" column="26" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="123" column="12" selection-start-line="123" selection-start-column="12" selection-end-line="123" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#53227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="84" column="16" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="136" column="13" selection-start-line="136" selection-start-column="13" selection-end-line="136" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/IdentityHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1182">
+          <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/UUID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="377" selection-start-line="377" selection-end-line="377" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="3207" column="28" selection-start-line="3207" selection-start-column="28" selection-end-line="3207" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="610" column="48" lean-forward="true" selection-start-line="610" selection-start-column="48" selection-end-line="610" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#90972#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="600" column="28" selection-start-line="600" selection-start-column="28" selection-end-line="600" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/JDK8/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="889" column="63" lean-forward="true" selection-start-line="889" selection-start-column="63" selection-end-line="889" selection-end-column="63" />
+          <folding>
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+            <element signature="e#32042#32072#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch09/src/edu/maskleo/generics/ch09/strategy/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1411#1412#0" expanded="true" />
+            <element signature="e#1459#1460#0" expanded="true" />
+            <element signature="e#1541#1542#0" expanded="true" />
+            <element signature="e#1593#1594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ch09</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.36059907" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
